@@ -1,18 +1,6 @@
 # Courseworks
 
-My university bachelor's and master's course works.
-
-## University
-Computer engineering | Odesa National Polytechnic University
-
-Years of study: 2012 - 2017
-
-Studied profile subjects:
-* System programming
-* Database development
-*Computer networks development, management and administration
-* Circuit design
-* Analog and hybrid systems development
+University courseworks.
 
 ## Clien-Server project
 Client-server application with external database. 
@@ -27,6 +15,18 @@ Client is a bulletin board. Client and server created with Java and JavaFX libra
 ## Curcuit design project
 
 Course work represetns process of designing processor which perform operating and control automaton.
+
+## Education
+Computer engineering | Odesa National Polytechnic University
+
+Years of study: 2012 - 2017
+
+Studied profile subjects:
+* System programming
+* Database development
+*Computer networks development, management and administration
+* Circuit design
+* Analog and hybrid systems development
 
 ## Author
 
