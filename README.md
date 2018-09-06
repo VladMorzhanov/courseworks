@@ -1,5 +1,7 @@
 # Courseworks
 
+<img src="https://i.imgur.com/ickvTfn.jpg"/>
+
 University courseworks.
 
 ## Clien-Server project
